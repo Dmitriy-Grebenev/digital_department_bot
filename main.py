@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # Создаем экземпляр бота
-BOT_TOKEN = '5324318294:AAFA4vQR5N0T8WcHksa1r1uBR127OsyzSQQ'
+BOT_TOKEN = 'EXAMPLE'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Читаем FAQ из текстового файла
